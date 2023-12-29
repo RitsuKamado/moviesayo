@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/moviesayo/static/css/main.ad19a119.css",
-    "main.js": "/moviesayo/static/js/main.e485cc1a.js",
+    "main.js": "/moviesayo/static/js/main.460f562e.js",
     "static/js/787.909ef8b2.chunk.js": "/moviesayo/static/js/787.909ef8b2.chunk.js",
     "static/media/hacker.gif": "/moviesayo/static/media/hacker.87aa15254192edb16d3a.gif",
     "index.html": "/moviesayo/index.html",
     "main.ad19a119.css.map": "/moviesayo/static/css/main.ad19a119.css.map",
-    "main.e485cc1a.js.map": "/moviesayo/static/js/main.e485cc1a.js.map",
+    "main.460f562e.js.map": "/moviesayo/static/js/main.460f562e.js.map",
     "787.909ef8b2.chunk.js.map": "/moviesayo/static/js/787.909ef8b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad19a119.css",
-    "static/js/main.e485cc1a.js"
+    "static/js/main.460f562e.js"
   ]
 }
