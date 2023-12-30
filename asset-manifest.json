@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moviesayo/static/css/main.e34f7dc6.css",
+    "main.css": "/moviesayo/static/css/main.166a1e93.css",
     "main.js": "/moviesayo/static/js/main.2fded087.js",
     "static/js/787.909ef8b2.chunk.js": "/moviesayo/static/js/787.909ef8b2.chunk.js",
     "static/media/hacker.gif": "/moviesayo/static/media/hacker.87aa15254192edb16d3a.gif",
@@ -13,12 +13,12 @@
     "static/media/fa-v4compatibility.ttf": "/moviesayo/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/moviesayo/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/moviesayo/index.html",
-    "main.e34f7dc6.css.map": "/moviesayo/static/css/main.e34f7dc6.css.map",
+    "main.166a1e93.css.map": "/moviesayo/static/css/main.166a1e93.css.map",
     "main.2fded087.js.map": "/moviesayo/static/js/main.2fded087.js.map",
     "787.909ef8b2.chunk.js.map": "/moviesayo/static/js/787.909ef8b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e34f7dc6.css",
+    "static/css/main.166a1e93.css",
     "static/js/main.2fded087.js"
   ]
 }
